@@ -446,7 +446,7 @@ extender.
     {
       "urlPrefix":"<extender-endpoint>",
       "bindVerb": "bind",
-      "ManagedResources": [
+      "managedResources": [
         {
           "name": "example.com/foo",
           "ignoredByScheduler": true
